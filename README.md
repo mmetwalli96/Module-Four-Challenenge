@@ -13,3 +13,12 @@ As there was a misconduct by Thomas High School regarding the grades of the nint
 - The perfermance was worsened, however, its positioned remained the same (third highest performing high school).
 - Math and reading scores by grade, scores by school spending, scores by school size, and scores by school type are the same in both cases. 
 
+|  | Ninth graders Scores Included | Ninth graders Scores Excluded |
+| --- | --- | --- |
+| **District summary** | ![Capture 101](https://user-images.githubusercontent.com/59425631/126878385-f031703b-ebae-4516-b6d3-a2a1fff48f33.PNG) |
+| **School Summary** |
+| **Thamosa High School Performance** |
+| **Math and Reading Scores by Grade**|
+| **Scores by School Spending** |
+| **Scores by School Size** |
+| **Scores by School Type** |
