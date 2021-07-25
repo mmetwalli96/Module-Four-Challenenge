@@ -27,3 +27,9 @@ Based on the table below, the following can be said:
 ## Summary
 ---
 
+The following are the four changes  to the school district analysis after reading and math scores have been replaced: 
+- The % Overall Passing is unsignificant reduction in the passing percentages in math, reading, and overall.
+- the presence of unsignificant reduction in the passing percentages in math, reading, and overall of the Thomas High School only.
+- Unnoticeable decrease in the passing percentages in math, reading, and overall in ninth grade in the grade summary (the numbers should have at least three decimal places to observe the change not in the way the data frame is formated).
+- extremely small decrease in Unnoticeable decrease in the passing percentages in math, reading, and overall in charter school type in the school type summary (the numbers should have at least three decimal places to observe the change not in the way the data frame is formated).
+- 
