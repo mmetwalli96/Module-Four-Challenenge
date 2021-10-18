@@ -3,7 +3,7 @@
 ## Overview of the Project
 ---
 
-As there was a misconduct by Thomas High School regarding the grades of the ninth graders in math and reading scores. There is a need to repeat the destrcit analysis. In this report, the resutls of redoing the analysis will be presented and the impacts on them will be investigated. 
+As there was a misconduct by Thomas High School regarding the grades of the ninth graders in math and reading scores. There is a need to repeat the district analysis. In this report, the resutls of redoing the analysis will be presented and the impacts on them will be investigated. 
 
 ## Results
 ---
