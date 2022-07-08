@@ -1,5 +1,3 @@
-# Module Four Challenenge Report
-
 ## Overview of the Project
 ---
 
